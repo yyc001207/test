@@ -1,7 +1,8 @@
+/mysite/src/components/Test.vue
+
 .DS_Store
 node_modules
 /dist
-
 
 # local env files
 .env.local
